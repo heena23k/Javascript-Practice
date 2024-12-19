@@ -1,0 +1,21 @@
+body{
+    padding: 20px;
+   background: #96737f;
+}
+div{
+    padding: 20px;
+    background: rgb(97, 18, 31);
+    width: max-content;
+}
+span{
+    padding: 20px;
+    background-color: rgb(30, 94, 150);
+    display: block;
+
+}
+/* button{
+    padding: 20px;
+    /* background: red; */
+    background-color: aqua;
+    
+} 
